@@ -70,7 +70,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Pierre Jehel**
 
-See also the list of [contributors](https://github.com/your/project/contributors.md) who participated in this project.
+See also the list of [contributors](https://github.com/jehelp/StructuralReliability/contributors) who participated in this project.
 
 ## License
 
